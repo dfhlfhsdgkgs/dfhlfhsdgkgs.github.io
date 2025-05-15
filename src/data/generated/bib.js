@@ -75,20 +75,20 @@
     "volume": "46",
     "year": "2016"
   },
-  "Mohanan2018": {
-    "abstract": "This article has been retracted due to partial plagiarism and the author Murali Mohanan takes full responsibility for the partial plagiarism detected. A notice of retraction is published in Vol. 27 No. 8",
-    "author": "Mohanan, Murali and Samuel, Philip",
-    "doi": "10.1142/S0218213018500276",
-    "journal": "International Journal on Artificial Intelligence Tools",
-    "keywords": "type:Requirement analysis,natural language processing,object oriented modeling,software requirement specification,UML class diagrams",
-    "number": "06",
-    "publisher": "World Scientific Pub Co Pte Lt",
+  "Kanad2015": {
+    "abstract": "Unified Modeling Language (UML) is the most popular modeling language for analysis, design and development of the software system. There has been a lot of research interest in generating these UML models, especially class diagrams, automatically from Natural Language requirements. The interest in class diagrams can be attributed to the fact that classes represent the abstractions present in the system to be developed. However, automated generation of UML class diagrams is a challenging task as it involves lot of pre-processing or manual intervention at times. In this paper, we present dependency analysis based approach to derive UML class diagrams automatically from Natural Language requirements. We transform the requirements statements to an intermediary frame-based structured representation using dependency analysis of requirements statements and the Grammatical Knowledge Patterns. The knowledge stored in the frame-based structured representation is used to derive class diagrams using rule-based algorithm. Our approach has generated similar class diagrams as reported in earlier works based on linguistic analysis with either annotation or manual intervention. We present the effectiveness of our approach in terms of recall and precision for the case-studies presented in earlier works.",
+    "author": "Richa,Sharma and Pratyoush K.,Srivastava and Kanad K, Biswas",
+    "doi": "10.1109/AIRE.2015.7337625",
+    "journal": "",
+    "keywords": "type:UML Models,Requirements,Natural Language Processing,patterns",
+    "number": "25",
+    "publisher": "IEEE",
     "series": "",
-    "title": "Natural Language Processing Approach for {UML} Class Model Generation from Software Requirement Specifications via SBVR",
+    "title": "From natural language requirements to UML class diagrams",
     "type": "journal-article",
-    "url": "https://doi.org/10.1142/s0218213018500276",
-    "volume": "27",
-    "year": "2018"
+    "url": "https://ieeexplore.ieee.org/document/7337625",
+    "volume": "",
+    "year": "2015"
   },
   "Yue2015": {
     "abstract": "The transition from an informal requirements specification in natural language to a structured, precise specification is an important challenge in practice. It is particularly so for object-oriented methods, defined in the context of the OMG's Model Driven Architecture (MDA), where a key step is to transition from a use case model to an analysis model. However, providing automated support for this transition is challenging, mostly because, in practice, requirements are expressed in natural language and are much less structured than other kinds of development artifacts. Such an automated transformation would enable at least the generation of an initial, likely incomplete, analysis model and enable automated traceability from requirements to code, through various intermediate models. In this article, we propose a method and a tool called aToucan, building on existing work, to automatically generate a UML analysis model comprising class, sequence and activity diagrams from a use case model and to automatically establish traceability links between model elements of the use case model and the generated analysis model. Note that our goal is to save effort through automated support, not to replace human abstraction and decision making.",
